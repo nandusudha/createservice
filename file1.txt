@@ -2,3 +2,8 @@ This is my devops2 file.This Is my modified data
 This is my devops2 file.This is modified    
 
 Hello dude h r u doing ?
+We are goint to test merge conflict as part of this activity.
+
+Hello this is for testing
+
+Hi I am going to modify this file very soon.
